@@ -4,9 +4,11 @@
   "version-string": "1",
   "dependencies": [
     "boost-log",
+    "pkgconf",
     {
         "name": "fmt",
-        "platform": "(windows & x64 & static)"
+        "platform": "(windows & x64 & static)",
+        "version": "10.1.1"
     },
     "libtorrent",
     "nlohmann-json",
