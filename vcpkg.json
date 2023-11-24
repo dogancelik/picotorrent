@@ -6,7 +6,7 @@
     "boost-log",
     {
         "name": "fmt",
-        "platform": "(windows & x64)"
+        "platform": "(windows & x64 & static)"
     },
     "libtorrent",
     "nlohmann-json",
