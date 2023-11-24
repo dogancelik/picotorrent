@@ -4,7 +4,7 @@
   "version-string": "1",
   "dependencies": [
     "boost-log",
-    "fmt",
+    "fmt:x64-windows",
     "libtorrent",
     "nlohmann-json",
     "sqlite3"
